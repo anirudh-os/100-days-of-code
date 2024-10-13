@@ -17,3 +17,12 @@
 **Link to work**: Since it was a contest, no link..
 
 **Thoughts**: Not as motivated as yesterday. But the fire is still on. Gonna take it forward to tomorrow !
+
+### Day 3: October 13, 2024 
+##### (Started The Odin Project)
+
+**Today's Progress**: Revise some css topics. Learnt some basics of Cyber Security.
+
+**Link to work**: codes are on my local machine, so no link..
+
+**Thoughts**: Feeling the same as yesterday. Hopefully tomorrow would be better..

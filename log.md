@@ -26,3 +26,21 @@
 **Link to work**: codes are on my local machine, so no link..
 
 **Thoughts**: Feeling the same as yesterday. Hopefully tomorrow would be better..
+
+### Day 4: October 14, 2024 
+##### (Worked on my TTE and my website)
+
+**Today's Progress**: Wrote code to manage raw i/o on my TTE. Wokred on my web tech project.
+
+**Link to work**: [Here](https://github.com/anirudh-os/Shellscribe/commit/1be385382bab4c35dc39d1ce916096ed36b25056) and [here](https://github.com/anirudh-os/Cosmic-Odyssey)
+
+**Thoughts**: Feeling a lot more motivated. Did more than I actually planned to.
+
+### Day 5: October 15, 2024 
+##### (Worked on my website)
+
+**Today's Progress**: Wokred on my web tech project.
+
+**Link to work**: [Here](https://github.com/anirudh-os/Cosmic-Odyssey)
+
+**Thoughts**: Not so bad. But could only work on this..
